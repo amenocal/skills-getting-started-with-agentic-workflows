@@ -36,7 +36,7 @@ Continue working in VS Code. If you closed your browser editor, reopen your deve
 > Select it from the Copilot Chat agent selector and give it access to edit files in the repository.
 > This will allow the agent to propose changes to the website content and create pull requests for review.
 
-   <img width="30%" alt="agentic workflows Agent" src="../images/agentic-workflows-agent.png" />
+   <img width="30%" alt="agentic workflows Agent" src="https://github.com/amenocal/skills-getting-started-with-agentic-workflows/blob/main/.github/images/agentic-workflows-agent.png?raw=true" />
 
    > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
    >

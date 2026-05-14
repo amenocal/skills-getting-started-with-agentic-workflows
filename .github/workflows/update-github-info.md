@@ -35,6 +35,7 @@ safe-outputs:
 network:
   allowed:
     - github.blog
+    - github.changelog
 
 timeout-minutes: 15
 strict: true

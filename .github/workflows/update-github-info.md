@@ -79,5 +79,5 @@ Edit `site/content/github-info.md`:
 ## Step 4 — Open a pull request
 
 Create a pull request with your changes so Mona can review before anything
-goes live. Use a clear, descriptive title that mentions today's date and the
+goes live. Use a clear, descriptive title that mentions that it is a website update, today's date and the
 sources you pulled from.

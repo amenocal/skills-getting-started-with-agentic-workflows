@@ -37,6 +37,7 @@ network:
     - github.blog
     - github.changelog
     - github.com
+    - awesome-copilot.github.com
 
 timeout-minutes: 15
 strict: true
@@ -57,6 +58,7 @@ Fetch both sources and identify the most recent, developer-relevant updates:
 
 - Web-fetch **https://github.blog/latest/** — latest GitHub Blog posts.
 - Web-fetch **https://github.blog/changelog/** — latest GitHub Changelog entries.
+- Web-fetch **https://awesome-copilot.github.com/workflows/** — curated community agentic workflows.
 
 Focus on items that are practical and help developers learn or use GitHub faster.
 Skip marketing announcements that have no direct developer impact.
@@ -69,7 +71,7 @@ Edit `site/content/github-info.md`:
   up-to-date list of the most relevant recent items you found.
 - Each entry should be a short bullet: a bold title followed by one sentence
   describing the change and why it matters to developers.
-- Always note the source (GitHub Blog or GitHub Changelog) at the end of each
+- Always note the source (GitHub Blog, GitHub Changelog, or Awesome Copilot Workflows) at the end of each
   bullet.
 - Follow Mona's editorial guidelines from `notes/mona-notes.md` throughout.
 - Do **not** modify any other section of the file.

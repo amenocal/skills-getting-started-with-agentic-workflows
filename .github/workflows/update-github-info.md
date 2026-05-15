@@ -36,6 +36,7 @@ network:
   allowed:
     - github.blog
     - github.changelog
+    - github.com
 
 timeout-minutes: 15
 strict: true
